@@ -2,7 +2,7 @@
 
 This list is rendered automatically from the [raw data](https://github.com/fpindia/jobs/blob/main/raw/active.csv).
 
-### 
+### Active Jobs
 
 
 | N | Name | URL | Status | Location | Languages | Archive |
@@ -13,3 +13,8 @@ This list is rendered automatically from the [raw data](https://github.com/fpind
 | 4. | Cross Compass ([Cross Compass](https://www.cross-compass.com)) | [Reddit Job Post](https://www.reddit.com/r/haskell/comments/jibcz7/job_cross_compass_is_hiring_haskell_developers/) | active | Remote | Haskell/Purescript | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201026_crosscompass.md)
 | 3. | Lumi ([Lumi](https://lumi.com)) | [Job Post](https://www.lumi.com/jobs/full-stack-engineer) | active | Remote | Haskell/Purescript | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201023_lumi.md)
 | 2. | VMWare ([VMWare](https://vmware.com)) | [LinkedIn job post](https://www.linkedin.com/jobs/view/2159654785) | active | Bangalore | Haskell/Datalog | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201012_vmware.md)
+
+
+### Closed Jobs
+
+Jobs which are no longer open are moved to [closed jobs](https://github.com/fpindia/jobs/blob/main/rendered/closed.md).
