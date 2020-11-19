@@ -12,4 +12,4 @@ This list is rendered automatically from the [raw data](https://github.com/fpind
 
 ### Looking for Active Jobs?
 
-Go to the list of [currently active jobs](https://github.com/fpindia/jobs/blob/main/rendered/closed.md).
+Go to the list of [currently active jobs](https://github.com/fpindia/jobs/blob/main/rendered/active.md).
