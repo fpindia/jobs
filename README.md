@@ -3,9 +3,8 @@ An up to date listing of all FP jobs open to folks residing in India. Not necess
 
 ## Rendered data
 
-Start here - [Currently Active FP Jobs](https://github.com/fpindia/jobs/blob/main/rendered/active.md). Currently there are *five* (5) open jobs listed there.
+Start here - [Currently Active FP Jobs](https://github.com/fpindia/jobs/blob/main/rendered/active.md). Currently there are *seven* (7) open jobs listed there.
 
 ## Raw data
 
 The raw data (used to generate the above pages) can be accessed here - [Raw Active Jobs Data](https://github.com/fpindia/jobs/blob/main/raw/active.csv).
-

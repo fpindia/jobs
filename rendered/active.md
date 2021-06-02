@@ -7,6 +7,8 @@ This list is rendered automatically from the [raw data](https://github.com/fpind
 
 | N | Name | URL | Status | Location | Languages | Archive |
 | :--- | :--- | :------- | :----- | :----- | :--------- | :--------- |
+| 12. | Segfault Systems ([Segfault Systems](https://segfault.systems/)) | [Job Post](https://segfault.systems/job/senior-software-developer.html) | active | Remote | OCaml | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20210602_segfault.md)
+| 11. | Arista Networks ([Arista Networks](https://www.arista.com/)) | [Job Post](https://www.smartrecruiters.com/AristaNetworks/743999748175066-senior-software-engineer-integrations-remote-) | active | Remote | Haskell | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20210602_arista.md)
 | 10. | Typeable.io ([Typeable.io](https://typeable.io/)) | [Job Post](https://typeable.io/job/senior-software-developer.html) | active | Remote | Haskell | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20210505_typeable.md)
 | 7. | Xoken Labs ([Xoken Labs](https://www.xoken.org/)) | [Shine job Post](https://www.shine.com/jobs/functional-programming-engineer/xoken-labs/11075217/) | active | Bangalore | Haskell | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201105_xoken.md)
 | 6. | ByteAlly ([ByteAlly](https://byteally.com/)) | [LinkedIn job Post](https://www.linkedin.com/jobs/view/2222656592/) | active | Chennai | Haskell/Scala/F# | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201030_byteally.md)
