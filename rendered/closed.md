@@ -7,6 +7,7 @@ This list is rendered automatically from the [raw data](https://github.com/fpind
 
 | N | Name | URL | Status | Location | Languages | Archive |
 | :--- | :--- | :------- | :----- | :----- | :--------- | :--------- |
+| 11. | Arista Networks ([Arista Networks](https://www.arista.com/)) | [Job Post](https://www.smartrecruiters.com/AristaNetworks/743999748175066-senior-software-engineer-integrations-remote-) | active | Remote | Haskell | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20210602_arista.md)
 | 9. | Feeld Ltd. ([Feeld Ltd.](https://feeld.co)) | [Job Post](https://www.shine.com/jobs/software-engineer-backend/feeld-ltd/11021647) | active | Multiple cities in India | Haskell | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201205_feeld.md)
 | 8. | Unison Computing ([Unison Computing](https://www.unisonweb.org/)) | [Job Post](https://www.notion.so/Jobs-at-Unison-Computing-072661c2d03a45cf98151d122c06943b) | active | Remote | Haskell/Unison | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201125_unison.md)
 | 3. | Lumi ([Lumi](https://lumi.com)) | [Job Post](https://www.lumi.com/jobs/full-stack-engineer) | active | Remote | Haskell/Purescript | [Archive link](https://github.com/fpindia/jobs/blob/main/archive/20201023_lumi.md)
